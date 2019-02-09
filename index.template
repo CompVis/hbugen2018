@@ -90,45 +90,7 @@
 							<p>Videos produced by our method</p>
 						</header>
 
-            <div class="row 150%">
-<div class="6u 12u$(xsmall)">
-								<div class="image fit captioned">
-                  <div class="videocontainer">
-                  <iframe src="https://www.youtube.com/embed/F-00NhYUnH4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="videothing"></iframe>
-                  </div>
-                  <h3><a
-                      href="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg">Our work
-                      covered by Two Minute Papers</a></h3>
-								</div>
-</div>
-<div class="6u$ 12u$(xsmall)">
-
-								<div class="image fit captioned">
-                  <div class="videocontainer">
-                  <video poster="images/video_penn.jpg" controls class="videothing">
-                   <source src="images/video_penn.mp4" type="video/mp4">
-                   Your browser does not support the video tag.
-                  </video>
-                  </div>
-									<h3>Reenactment of sequences from <a href="https://dreamdragon.github.io/PennAction/">PennAction</a></h3>
-								</div>
-</div>
-</div>
-<div class="row 150%">
-<div class="6u 12u$(xsmall)">
-
-								<div class="image fit captioned">
-                  <div class="videocontainer">
-                  <video poster="images/video_pfn.jpg" controls class="videothing">
-                   <source src="images/video_pfn.mp4" type="video/mp4">
-                   Your browser does not support the video tag.
-                  </video>
-                  </div>
-									<h3>Controlling characters in a virtual environment</h3>
-								</div>
-</div>
-</div>
-
+            __TEMPLATE_STRING__
 
           </div>
 				</section>
